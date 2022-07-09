@@ -3,9 +3,9 @@
 /**
  * print_diagonal - printing lines diagonal
  * @n: input variable
- * Owned ny Skyline
  * Return: void
  */
+
 
 
 void print_diagonal(int n)
